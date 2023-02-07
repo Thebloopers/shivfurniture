@@ -1,0 +1,1358 @@
+body {
+  font-family: DM Sans;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-style: normal;
+}
+body {
+  color: #000;
+}
+body button.close svg {
+  fill: #000;
+}
+h1,
+.h1 {
+  font-family: Old Standard TT;
+  font-weight: 400;
+  font-size: 55px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-transform: none;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+h1,
+.h1 {
+  color: #242424;
+}
+h1,
+.h1 button.close svg {
+  fill: #242424;
+}
+h1 svg.stroke,
+.h1 svg.stroke {
+  stroke: #242424;
+}
+h1 svg.fill,
+.h1 svg.fill {
+  fill: #242424;
+}
+h2,
+.h2 {
+  font-family: Old Standard TT;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-transform: none;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+h2,
+.h2 {
+  color: #23232c;
+}
+h2,
+.h2 button.close svg {
+  fill: #23232c;
+}
+h2 svg.stroke,
+.h2 svg.stroke {
+  stroke: #23232c;
+}
+h2 svg.fill,
+.h2 svg.fill {
+  fill: #23232c;
+}
+h3,
+.h3 {
+  font-family: Old Standard TT;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-transform: none;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+h3,
+.h3 {
+  color: #23232c;
+}
+h3,
+.h3 button.close svg {
+  fill: #23232c;
+}
+h3 svg.stroke,
+.h3 svg.stroke {
+  stroke: #23232c;
+}
+h3 svg.fill,
+.h3 svg.fill {
+  fill: #23232c;
+}
+h4,
+.h4 {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-transform: none;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+h4,
+.h4 {
+  color: #23232c;
+}
+h4,
+.h4 button.close svg {
+  fill: #23232c;
+}
+h4 svg.stroke,
+.h4 svg.stroke {
+  stroke: #23232c;
+}
+h4 svg.fill,
+.h4 svg.fill {
+  fill: #23232c;
+}
+h5,
+.h5 {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-transform: none;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+h5,
+.h5 {
+  color: #23232c;
+}
+h5,
+.h5 button.close svg {
+  fill: #23232c;
+}
+h5 svg.stroke,
+.h5 svg.stroke {
+  stroke: #23232c;
+}
+h5 svg.fill,
+.h5 svg.fill {
+  fill: #23232c;
+}
+h6,
+.h6 {
+  font-family: Montserrat;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: 0;
+  text-transform: none;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+h6,
+.h6 {
+  color: #23232c;
+}
+h6,
+.h6 button.close svg {
+  fill: #23232c;
+}
+h6 svg.stroke,
+.h6 svg.stroke {
+  stroke: #23232c;
+}
+h6 svg.fill,
+.h6 svg.fill {
+  fill: #23232c;
+}
+.fmc-announcement-box {
+  font-family: Jost;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.fmc-announcement-box {
+  color: #333;
+}
+.fmc-announcement-box button.close svg {
+  fill: #333;
+}
+.fmc-announcement-box svg.stroke {
+  stroke: #333;
+}
+.fmc-announcement-box svg.fill {
+  fill: #333;
+}
+.site-header .main-navigation > ul > li > a,
+.site-header .main-navigation > .nav-menu > ul > li > a {
+  font-family: DM Mono;
+  font-weight: 400;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+}
+a {
+  color: #242424;
+}
+a:hover {
+  color: #c4c4c4;
+}
+.familab_theme #respond input#submit.btn-flat,
+.familab_theme a.button.btn-flat,
+.familab_theme button.button.btn-flat,
+.familab_theme input.button.btn-flat,
+.btn-woo-flat.familab_theme button,
+.btn-woo-flat.familab_theme a.button,
+.btn-woo-flat.familab_theme button.button,
+.btn-woo-flat.familab_theme #respond input#submit,
+.btn-woo-flat.familab_theme #respond input.button,
+.btn-woo-flat.familab_theme .widget_shopping_cart .buttons a,
+.btn-woo-flat.familab_theme #respond input#submit.alt,
+.btn-woo-flat.familab_theme a.button.alt,
+.btn-woo-flat.familab_theme button.button.alt,
+.btn-woo-flat.familab_theme input.button.alt,
+.btn-default.btn-flat {
+  background-color: #0a0a0a;
+  color: #f9f9f9;
+}
+.familab_theme #respond input#submit.btn-flat:hover,
+.familab_theme a.button.btn-flat:hover,
+.familab_theme button.button.btn-flat:hover,
+.familab_theme input.button.btn-flat:hover,
+.btn-woo-flat.familab_theme button:hover,
+.btn-woo-flat.familab_theme a.button:hover,
+.btn-woo-flat.familab_theme button.button:hover,
+.btn-woo-flat.familab_theme #respond input#submit:hover,
+.btn-woo-flat.familab_theme #respond input.button:hover,
+.btn-woo-flat.familab_theme .widget_shopping_cart .buttons a:hover,
+.btn-woo-flat.familab_theme #respond input#submit.alt:hover,
+.btn-woo-flat.familab_theme a.button.alt:hover,
+.btn-woo-flat.familab_theme button.button.alt:hover,
+.btn-woo-flat.familab_theme input.button.alt:hover,
+.btn-default.btn-flat:hover {
+  background-color: #b8a6a9;
+  color: #fff;
+}
+@media (min-width: 1300px) {
+  .container {
+    max-width: 1300px;
+  }
+  .header-mobile > .container,
+  .header-container,
+  #content > .container,
+  .site-content .page-heading-wrap .page-heading-container,
+  .header-breadcrumb-wrap > .container,
+  .term-description-full-content > .container {
+    max-width: 1300px;
+  }
+  .elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1300px;
+  }
+  .container {
+    max-width: 1440px;
+  }
+  .header-mobile > .container,
+  .header-container,
+  #content > .container,
+  .site-content .page-heading-wrap .page-heading-container,
+  .header-breadcrumb-wrap > .container {
+    max-width: 1470px;
+  }
+  .woocommerce
+    div.product
+    .woocommerce-product-gallery.gallery_style_vertical
+    .flex-viewport {
+    margin-left: 105px;
+  }
+  .woocommerce
+    div.product
+    .woocommerce-product-gallery.gallery_style_vertical
+    .flex-control-thumbs
+    li {
+    width: max-content;
+  }
+}
+.header-container,
+.footer-container {
+  width: 1470px;
+}
+.header-main {
+  height: 100px;
+}
+.site-header:not(.fmc-transparent-header) .header-layout {
+  background-color: #fff;
+}
+.header-main .header-element,
+.header-main .header-element.search_box.form .fm-search-form .search_text_input,
+.header-main
+  .header-element.search_box.form
+  .fm-search-form
+  button[type="submit"],
+.header-main
+  .header-element.search_form_wrapper
+  .fm-search-form
+  .search_text_input,
+.header-main
+  .header-element.search_form_wrapper
+  .fm-search-form
+  button[type="submit"],
+.header-main .header-element.search_box.button > a,
+.header-main .header-element.search_box.button > a span,
+.header-main .header-element.cart_box > a,
+.header-main .header-element.cart_box > a span,
+.header-main .header-element.my-account-box > a,
+.header-main .header-element.my-account-box > a span,
+.header-main .header-element.wishlist-box > a,
+.header-main .header-element.wishlist-box > a span,
+.header-main .header-element.hamburger-box > a,
+.header-main .header-element.hamburger-box > a span,
+.header-main .header-element.contact-info-box > a,
+.header-main .header-element.contact-info-box > a span,
+.header-main .header-element.social-icon-box > a,
+.header-main .header-element.social-icon-box > a span,
+.header-main .header-element.currency-box > span.label,
+.header-main .header-element.language-box > span.label,
+.header-main .header-element.currency-box .dropdown > .current,
+.header-main .header-element.currency-box .dropdown > .current span,
+.header-main .header-element.language-box .dropdown > .current,
+.header-main .header-element.language-box .dropdown > .current span,
+.header-main .header-element.contact-info-box,
+.header-main .header-element.html_right_1,
+.header-main .header-element.html_left_1,
+#site-navigation > .nav-menu > li > a,
+#site-navigation > .nav-menu > li > a span {
+  color: #000;
+}
+.header-main
+  .header-element.search_box.form
+  .fm-search-form
+  button[type="submit"]
+  svg,
+.header-main
+  .header-element.search_form_wrapper
+  .fm-search-form
+  button[type="submit"]
+  svg,
+.header-main .header-element.search_box.button > a svg,
+.header-main .header-element.search_box.button > a svg.fm-icon,
+.header-main .header-element.cart_box > a svg,
+.header-main .header-element.cart_box > a svg.fm-icon,
+.header-main .header-element.my-account-box > a svg,
+.header-main .header-element.my-account-box > a svg.fm-icon,
+.header-main .header-element.wishlist-box > a svg,
+.header-main .header-element.wishlist-box > a svg.fm-icon,
+.header-main .header-element.hamburger-box > a svg,
+.header-main .header-element.hamburger-box > a svg.fm-icon,
+.header-main .header-element.contact-info-box > a svg,
+.header-main .header-element.contact-info-box > a svg.fm-icon,
+.header-main .header-element.social-icon-box > a svg,
+.header-main .header-element.social-icon-box > a svg.fm-icon,
+.header-main .header-element.currency-box .dropdown > .current svg,
+.header-main .header-element.language-box .dropdown > .current svg,
+.header-main .header-element.contact-info-box svg,
+.header-main .header-element.contact-info-box svg.fm-icon,
+.header-main .header-element.html_right_1 svg,
+.header-main .header-element.html_right_1 svg.fm-icon,
+.header-main .header-element.html_left_1 svg,
+.header-main .header-element.html_left_1 svg.fm-icon,
+#site-navigation > .nav-menu > li > a svg,
+#site-navigation > .nav-menu > li > a svg.fm-icon {
+  fill: #000;
+}
+.header-main
+  .header-element.cart_box
+  > a.cart-btn
+  .mini-cart-contents
+  .cart-counter
+  > span {
+  border-color: #000;
+}
+.header-main .header-element.search_box.button > a:hover,
+.header-main .header-element.search_box.button > a:hover span,
+.header-main .header-element.cart_box > a:hover,
+.header-main .header-element.cart_box > a:hover span,
+.header-main .header-element.my-account-box > a:hover,
+.header-main .header-element.my-account-box > a:hover span,
+.header-main .header-element.wishlist-box > a:hover,
+.header-main .header-element.wishlist-box > a:hover span,
+.header-main .header-element.hamburger-box > a:hover,
+.header-main .header-element.hamburger-box > a:hover span,
+.header-main .header-element.contact-info-box > a:hover,
+.header-main .header-element.contact-info-box > a:hover span,
+.header-main .header-element.social-icon-box > a:hover,
+.header-main .header-element.social-icon-box > a:hover span,
+#site-navigation > .nav-menu > li > a:hover,
+#site-navigation > .nav-menu > li > a:hover span {
+  color: #d9d8d8;
+}
+.header-main .header-element.search_box.button > a:hover svg,
+.header-main .header-element.search_box.button > a:hover svg.fm-icon,
+.header-main .header-element.cart_box > a:hover svg,
+.header-main .header-element.cart_box > a:hover svg.fm-icon,
+.header-main .header-element.my-account-box > a:hover svg,
+.header-main .header-element.my-account-box > a:hover svg.fm-icon,
+.header-main .header-element.wishlist-box > a:hover svg,
+.header-main .header-element.wishlist-box > a:hover svg.fm-icon,
+.header-main .header-element.hamburger-box > a:hover svg,
+.header-main .header-element.hamburger-box > a:hover svg.fm-icon,
+.header-main .header-element.contact-info-box > a:hover svg,
+.header-main .header-element.contact-info-box > a:hover svg.fm-icon,
+.header-main .header-element.social-icon-box > a:hover svg,
+.header-main .header-element.social-icon-box > a:hover svg.fm-icon,
+#site-navigation > .nav-menu > li > a:hover svg,
+#site-navigation > .nav-menu > li > a:hover svg.fm-icon {
+  fill: #d9d8d8;
+}
+.site-header .site-navigation a:after {
+  background-color: #d9d8d8;
+}
+.header-bottom .header-element,
+.header-bottom
+  .header-element.search_box.form
+  .fm-search-form
+  .search_text_input,
+.header-bottom
+  .header-element.search_box.form
+  .fm-search-form
+  button[type="submit"],
+.header-bottom
+  .header-element.search_form_wrapper
+  .fm-search-form
+  .search_text_input,
+.header-bottom
+  .header-element.search_form_wrapper
+  .fm-search-form
+  button[type="submit"],
+.header-bottom .header-element.search_box.button > a,
+.header-bottom .header-element.search_box.button > a span,
+.header-bottom .header-element.cart_box > a,
+.header-bottom .header-element.cart_box > a span,
+.header-bottom .header-element.my-account-box > a,
+.header-bottom .header-element.my-account-box > a span,
+.header-bottom .header-element.wishlist-box > a,
+.header-bottom .header-element.wishlist-box > a span,
+.header-bottom .header-element.hamburger-box > a,
+.header-bottom .header-element.hamburger-box > a span,
+.header-bottom .header-element.contact-info-box > a,
+.header-bottom .header-element.contact-info-box > a span,
+.header-bottom .header-element.social-icon-box > a,
+.header-bottom .header-element.social-icon-box > a span,
+.header-bottom .header-element.currency-box > span.label,
+.header-bottom .header-element.language-box > span.label,
+.header-bottom .header-element.currency-box .dropdown > .current,
+.header-bottom .header-element.currency-box .dropdown > .current span,
+.header-bottom .header-element.language-box .dropdown > .current,
+.header-bottom .header-element.language-box .dropdown > .current span,
+.header-bottom .header-element.contact-info-box,
+.header-bottom .header-element.html_right_1,
+.header-bottom .header-element.html_left_1,
+.header-bottom #site-navigation > .nav-menu > li > a,
+.header-bottom #site-navigation > .nav-menu > li > a span {
+  color: #000;
+}
+.header-bottom
+  .header-element.search_box.form
+  .fm-search-form
+  button[type="submit"]
+  svg,
+.header-bottom
+  .header-element.search_form_wrapper
+  .fm-search-form
+  button[type="submit"]
+  svg,
+.header-bottom .header-element.search_box.button > a svg,
+.header-bottom .header-element.search_box.button > a svg.fm-icon,
+.header-bottom .header-element.cart_box > a svg,
+.header-bottom .header-element.cart_box > a svg.fm-icon,
+.header-bottom .header-element.my-account-box > a svg,
+.header-bottom .header-element.my-account-box > a svg.fm-icon,
+.header-bottom .header-element.wishlist-box > a svg,
+.header-bottom .header-element.wishlist-box > a svg.fm-icon,
+.header-bottom .header-element.hamburger-box > a svg,
+.header-bottom .header-element.hamburger-box > a svg.fm-icon,
+.header-bottom .header-element.contact-info-box > a svg,
+.header-bottom .header-element.contact-info-box > a svg.fm-icon,
+.header-bottom .header-element.social-icon-box > a svg,
+.header-bottom .header-element.social-icon-box > a svg.fm-icon,
+.header-bottom .header-element.currency-box .dropdown > .current svg,
+.header-bottom .header-element.language-box .dropdown > .current svg,
+.header-bottom .header-element.contact-info-box svg,
+.header-bottom .header-element.contact-info-box svg.fm-icon,
+.header-bottom .header-element.html_right_1 svg,
+.header-bottom .header-element.html_right_1 svg.fm-icon,
+.header-bottom .header-element.html_left_1 svg,
+.header-bottom .header-element.html_left_1 svg.fm-icon,
+.header-bottom #site-navigation > .nav-menu > li > a svg,
+.header-bottom #site-navigation > .nav-menu > li > a svg.fm-icon {
+  fill: #000;
+}
+.header-bottom
+  .header-element.cart_box
+  > a.cart-btn
+  .mini-cart-contents
+  .cart-counter
+  > span {
+  border-color: #000;
+}
+.header-bottom .site-navigation a:after {
+  background-color: #000;
+}
+.header-layout {
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #e8e8e8;
+}
+.site-branding {
+  width: 180px;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+.header-layout3 .header-main {
+  grid-template-columns: 1fr 180px 1fr;
+}
+.header-layout5 .header-main {
+  grid-template-columns: 1fr 180px 1fr;
+}
+.header-layout6 .header-main {
+  grid-template-columns: 1fr 180px 1fr;
+}
+.site-logo {
+  max-width: 100px;
+}
+.cart_box {
+  margin-left: 20px;
+}
+.my-account-box {
+  margin-left: 20px;
+}
+.wishlist-box {
+  margin-left: 20px;
+}
+@media (min-width: 1200px) {
+  .fm-search-form {
+    width: 380px;
+  }
+}
+.site-header .header-layout.headroom--pinned.headroom--not-top .header-main {
+  height: 80px;
+}
+.site-header .header-layout.headroom--pinned.headroom--not-top {
+  background-color: #fff;
+}
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_box.form
+  .fm-search-form
+  .search_text_input,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_box.form
+  .fm-search-form
+  button[type="submit"],
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_form_wrapper
+  .fm-search-form
+  .search_text_input,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_form_wrapper
+  .fm-search-form
+  button[type="submit"],
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_box.button
+  > a,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_box.button
+  > a
+  span,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.cart_box
+  > a,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.cart_box
+  > a
+  span,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.my-account-box
+  > a,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.my-account-box
+  > a
+  span,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.wishlist-box
+  > a,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.wishlist-box
+  > a
+  span,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.hamburger-box
+  > a,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.hamburger-box
+  > a
+  span,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.contact-info-box
+  > a,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.contact-info-box
+  > a
+  span,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.social-icon-box
+  > a,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.social-icon-box
+  > a
+  span,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.currency-box
+  > span.label,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.language-box
+  > span.label,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.currency-box
+  .dropdown
+  > .current,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.currency-box
+  .dropdown
+  > .current
+  span,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.language-box
+  .dropdown
+  > .current,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.language-box
+  .dropdown
+  > .current
+  span,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.contact-info-box,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.html_right_1,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.html_left_1,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  #site-navigation
+  > .nav-menu
+  > li
+  > a,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  #site-navigation
+  > .nav-menu
+  > li
+  > a
+  span {
+  color: #000;
+}
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_box.form
+  .fm-search-form
+  button[type="submit"]
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_form_wrapper
+  .fm-search-form
+  button[type="submit"]
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_box.button
+  > a
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.search_box.button
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.cart_box
+  > a
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.cart_box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.my-account-box
+  > a
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.my-account-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.wishlist-box
+  > a
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.wishlist-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.hamburger-box
+  > a
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.hamburger-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.contact-info-box
+  > a
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.contact-info-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.social-icon-box
+  > a
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.social-icon-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.currency-box
+  .dropdown
+  > .current
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.language-box
+  .dropdown
+  > .current
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.contact-info-box
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.contact-info-box
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.html_right_1
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.html_right_1
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.html_left_1
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.html_left_1
+  svg.fm-icon,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  #site-navigation
+  > .nav-menu
+  > li
+  > a
+  svg,
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  #site-navigation
+  > .nav-menu
+  > li
+  > a
+  svg.fm-icon {
+  fill: #000;
+}
+body.familab_theme
+  .site-header
+  .header-layout.headroom--pinned.headroom--not-top
+  .header-main
+  .header-element.cart_box
+  > a.cart-btn
+  .mini-cart-contents
+  .cart-counter
+  > span {
+  border-color: #000;
+}
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_box.form
+  .fm-search-form
+  .search_text_input,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_box.form
+  .fm-search-form
+  button[type="submit"],
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_form_wrapper
+  .fm-search-form
+  .search_text_input,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_form_wrapper
+  .fm-search-form
+  button[type="submit"],
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_box.button
+  > a,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_box.button
+  > a
+  span,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.cart_box
+  > a,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.cart_box
+  > a
+  span,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.my-account-box
+  > a,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.my-account-box
+  > a
+  span,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.wishlist-box
+  > a,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.wishlist-box
+  > a
+  span,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.hamburger-box
+  > a,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.hamburger-box
+  > a
+  span,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.contact-info-box
+  > a,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.contact-info-box
+  > a
+  span,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.social-icon-box
+  > a,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.social-icon-box
+  > a
+  span,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.currency-box
+  > span.label,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.language-box
+  > span.label,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.currency-box
+  .dropdown
+  > .current,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.currency-box
+  .dropdown
+  > .current
+  span,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.language-box
+  .dropdown
+  > .current,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.language-box
+  .dropdown
+  > .current
+  span,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.contact-info-box,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.html_right_1,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.html_left_1,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  #site-navigation
+  > .nav-menu
+  > li
+  > a,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  #site-navigation
+  > .nav-menu
+  > li
+  > a
+  span {
+  color: #000;
+}
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_box.form
+  .fm-search-form
+  button[type="submit"]
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_form_wrapper
+  .fm-search-form
+  button[type="submit"]
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_box.button
+  > a
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.search_box.button
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.cart_box
+  > a
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.cart_box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.my-account-box
+  > a
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.my-account-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.wishlist-box
+  > a
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.wishlist-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.hamburger-box
+  > a
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.hamburger-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.contact-info-box
+  > a
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.contact-info-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.social-icon-box
+  > a
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.social-icon-box
+  > a
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.currency-box
+  .dropdown
+  > .current
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.language-box
+  .dropdown
+  > .current
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.contact-info-box
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.contact-info-box
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.html_right_1
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.html_right_1
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.html_left_1
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.html_left_1
+  svg.fm-icon,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  #site-navigation
+  > .nav-menu
+  > li
+  > a
+  svg,
+body.familab_theme
+  .site-header.fmc-transparent-header
+  #site-navigation
+  > .nav-menu
+  > li
+  > a
+  svg.fm-icon {
+  fill: #000;
+}
+body.familab_theme
+  .site-header.fmc-transparent-header
+  .header-main
+  .header-element.cart_box
+  > a.cart-btn
+  .mini-cart-contents
+  .cart-counter
+  > span {
+  border-color: #000;
+}
+body
+  .fmc-transparent-header
+  .site-header.fmc-transparent-header
+  .site-navigation
+  a:after {
+  background-color: #000;
+}
+.blog-heading-content {
+  background-color: #f8f8f8;
+}
+.blog-heading-content,
+.blog-heading-content p,
+.blog-heading-content a,
+.blog-heading-content .page-heading-title {
+  color: #000;
+}
+.blog-heading-content svg.stroke {
+  stroke: #000;
+}
+.blog-heading-content svg.fill {
+  fill: #000;
+}
+.blog-heading-content {
+  height: 200px;
+}
+.blog .content,
+.archive:not(.woocommerce-page) .content {
+  background-color: #fff;
+}
+.shop-heading-content {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.shop-heading-content {
+  height: 245px;
+}
+.woocommerce-badge.on_sale {
+  color: #fff;
+  background-color: #000;
+}
+.woocommerce-badge.new {
+  color: #fff;
+  background-color: #d93;
+}
+.woocommerce-badge.featured {
+  color: #fff;
+  background-color: #000;
+}
+.woocommerce-badge.sold_out {
+  color: #fb1c1c;
+  background-color: #8e908f;
+}
+.page-heading-wrap.has-divider .shop-heading-content {
+  border-color: #e8e8e8;
+}
+@media (min-width: 992px) {
+  .single-product
+    .woocommerce-product-gallery.gallery_style_vertical
+    .gallery_thumb_swiper {
+    height: 400px;
+  }
+}
+@media (min-width: 1200px) {
+  .single-product
+    .woocommerce-product-gallery.gallery_style_vertical
+    .gallery_thumb_swiper {
+    height: 675px;
+  }
+}
