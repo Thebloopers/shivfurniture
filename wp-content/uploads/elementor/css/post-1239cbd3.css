@@ -3969,7 +3969,6 @@ body.rtl .elementor-1239 .elementor-element.elementor-element-5f74f55 {
   height: 700px !important;
 }
 .media_coverage img {
-  filter: grayscale(1) !important;
   cursor: pointer;
 }
 .media_coverage img:hover {
